@@ -8,7 +8,7 @@ Apresento aqui o desafio proposto pelo curso Oracle One da Alura, onde tínhamos
 - Cadastro ilimitado de amigos.
 - Acompanhamento da lista e do total de amigos cadastrados.
 
-## Ferramentas utilizadas
+## Ferramentas utilizadas:
 - JS
 - CSS
 - HTML
